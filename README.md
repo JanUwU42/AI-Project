@@ -16,3 +16,12 @@ Workspace -> Knowledge -> + -> Daten angeben und Dateien hochladen
 Workspace -> Models -> + -> Name Angeben, gewünschtes Modell auswählen, gewünschte Knowledge Base auswählen -> speichern
 ### Neuer Chat
 Erstelltes Modell auswählen und chatten
+
+## Used Repos
+### Open Web UI
+https://github.com/open-webui/open-webui
+Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.
+
+### Ollama
+https://github.com/ollama/ollama
+Get up and running with large language models.
