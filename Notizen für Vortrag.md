@@ -1,4 +1,6 @@
-Circa 30 Minuten insgesamt
+- Circa 30 Minuten Präsentation insgesamt 
+- Video erstellen wie das alles funktioniert
+- Note: Eine Gruppennote; 20% Präsi / 80% Project (Basiert auf Doku, Video, etc.)
 ---
 - Jan
   
