@@ -1,3 +1,5 @@
+Circa 30 Minuten insgesamt
+---
 - Jan
   
   - RAG-Einführung
