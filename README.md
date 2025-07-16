@@ -1,4 +1,6 @@
 # AI-Project
+This project sets up a local Retrieval-Augmented Generation (RAG) system using a Docker container with Ollama and OpenWebUI. You can pull pre-trained models, add a custom knowledge base (e.g., university resources), and use it to ask questions and support your studies. Everything runs locally, so your data stays private and you don’t rely on big tech providers.
+
 ## Setup
 Open-WebUI & Ollama Docker Container
 
